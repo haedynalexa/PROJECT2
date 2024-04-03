@@ -65,3 +65,15 @@ footer {
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
+
+.hero {
+    min-height: 550px;
+    background-image: url('images/aprilford.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero h1 {
+    font-size: 38px;
+    color: #fff;
+}
