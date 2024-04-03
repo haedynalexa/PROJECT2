@@ -47,6 +47,13 @@ nav ul li {
     margin-right: 10px;
 }
 
+.main-nav {
+    position: fixed; /* Position it relative to the viewport */
+    top: 0; /* Align it to the top */
+    right: 0; /* Align it to the right */
+    padding: 20px; /* Add padding to create space */
+}
+
 main {
     padding: 20px;
 }
