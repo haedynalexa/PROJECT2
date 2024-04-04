@@ -7,15 +7,20 @@ body {
 }
 
 header {
-    display: flex;
+    /* display: flex; */
 }
 
 .wrapper {
+    width: 100%;
     max-width: 1020px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+.header-section {
+    display: flex;
 }
 
 /* .header {
