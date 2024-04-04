@@ -43,11 +43,11 @@ header {
     padding: 20px;
 }
 
-.service-item {
+/* .service-item {
     border: 1px solid #fff;
     padding: 10px;
     border-radius: 10px;
-}
+} */
 
 @media (max-width: 768px) {
     .service-grid {
