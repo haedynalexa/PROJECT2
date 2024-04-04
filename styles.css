@@ -103,3 +103,32 @@ footer {
     font-style: normal;
   }
   
+  .site-footer{
+    background-color: white;
+    color: black;
+    padding: 20px 0; 
+    font-size: 0.9em;
+  }
+
+  .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .footer-section h3 {
+    color: black;
+  }
+
+  .footer-bottom {
+    border-top: 1px solid #333;
+    padding-top: 20px;
+    text-align: center;
+  }
+
+  .newsletter {
+
+  }
